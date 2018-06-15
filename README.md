@@ -3,7 +3,7 @@ We worked on a project based on Deep Learning and we are able to detect objects 
 
 This is an implementation of tensor flow object detection API for running it in Real time through Webcam and cellphone camera.
 # Contributors:
-*
+*https://github.com/himanshu8004
 
 The video for the same is at :
 
