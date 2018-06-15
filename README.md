@@ -5,6 +5,8 @@ This is an implementation of tensor flow object detection API for running it in 
 # Contributors:
 *https://github.com/himanshu8004
 
+*https://github.com/ashikaks
+
 The video for the same is at :
 
 Download the object_recognition_detection.zip
