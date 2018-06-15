@@ -3,7 +3,7 @@ We worked on a project based on Deep Learning and we are able to detect objects 
 
 This is an implementation of tensor flow object detection API for running it in Real time through Webcam and cellphone camera.
 
-The video tutorial for the same is at :
+The video for the same is at :
 
 Download the object_recognition_detection.zip
 
@@ -16,3 +16,6 @@ For running the object detection in realtime with cellphone camera run the objec
 The official tensorflow object detection API link is https://github.com/tensorflow/models/tree/master/object_detection
 
 For installing ProtoBuf : https://github.com/google/protobuf/releases?after=v3.4.1
+
+We were able to finish this project with the help of : https://github.com/anujshah1003/Real_time_Object_detection_TF
+and the video : https://www.youtube.com/watch?v=MoMjIwGSFVQ
