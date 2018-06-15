@@ -6,6 +6,7 @@ This is an implementation of tensor flow object detection API for running it in 
 * https://github.com/himanshu8004
 * https://github.com/Anshu15bit
 * https://github.com/ashikaks
+* https://github.com/sumananand222
 
 The video for the same is at :
 
