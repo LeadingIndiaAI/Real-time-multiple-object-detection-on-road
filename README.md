@@ -21,6 +21,3 @@ For running the object detection in realtime with cellphone camera run the objec
 The official tensorflow object detection API link is https://github.com/tensorflow/models/tree/master/object_detection
 
 For installing ProtoBuf : https://github.com/google/protobuf/releases?after=v3.4.1
-
-We were able to finish this project with the help of : https://github.com/anujshah1003/Real_time_Object_detection_TF
-and the video : https://www.youtube.com/watch?v=MoMjIwGSFVQ
